@@ -12,4 +12,5 @@ vector_b = [4, 5, 6]
 dp = dot_product(vector_a, vector_b)
 print(f"Dot product : {dp}")
 
-# Incomplete feature
+# Incomplete feature 
+#that code is not such fast so update more
